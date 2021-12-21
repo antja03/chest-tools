@@ -1,0 +1,11 @@
+name: chest-tools
+version: 1.0
+main: me.antja03.chesttools.ChestTools
+authors: [ antja03 ]
+description: Adds items to the game that have some useful effects for chests.
+website: https://github.com/antja03/chest-tools
+commands:
+  menu:
+    description: Opens the Chest Tools item menu
+    usage: /menu
+    permission: chesttools.menu

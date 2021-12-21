@@ -1,0 +1,4 @@
+rootProject.name = 'chest-tools'
+
+include ':lwm'
+project(':lwm').projectDir = new File("D:\\Development\\lwm-new")
